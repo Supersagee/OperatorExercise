@@ -1,0 +1,16 @@
+C:\Users\Billy\source\repos\OperatorExercise\OperatorExerciseConsole\bin\Debug\net5.0\OperatorExerciseConsole.exe
+C:\Users\Billy\source\repos\OperatorExercise\OperatorExerciseConsole\bin\Debug\net5.0\OperatorExerciseConsole.deps.json
+C:\Users\Billy\source\repos\OperatorExercise\OperatorExerciseConsole\bin\Debug\net5.0\OperatorExerciseConsole.runtimeconfig.json
+C:\Users\Billy\source\repos\OperatorExercise\OperatorExerciseConsole\bin\Debug\net5.0\OperatorExerciseConsole.runtimeconfig.dev.json
+C:\Users\Billy\source\repos\OperatorExercise\OperatorExerciseConsole\bin\Debug\net5.0\OperatorExerciseConsole.dll
+C:\Users\Billy\source\repos\OperatorExercise\OperatorExerciseConsole\bin\Debug\net5.0\ref\OperatorExerciseConsole.dll
+C:\Users\Billy\source\repos\OperatorExercise\OperatorExerciseConsole\bin\Debug\net5.0\OperatorExerciseConsole.pdb
+C:\Users\Billy\source\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net5.0\OperatorExerciseConsole.csproj.AssemblyReference.cache
+C:\Users\Billy\source\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net5.0\OperatorExerciseConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Billy\source\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net5.0\OperatorExerciseConsole.AssemblyInfoInputs.cache
+C:\Users\Billy\source\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net5.0\OperatorExerciseConsole.AssemblyInfo.cs
+C:\Users\Billy\source\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net5.0\OperatorExerciseConsole.csproj.CoreCompileInputs.cache
+C:\Users\Billy\source\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net5.0\OperatorExerciseConsole.dll
+C:\Users\Billy\source\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net5.0\ref\OperatorExerciseConsole.dll
+C:\Users\Billy\source\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net5.0\OperatorExerciseConsole.pdb
+C:\Users\Billy\source\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\net5.0\OperatorExerciseConsole.genruntimeconfig.cache
